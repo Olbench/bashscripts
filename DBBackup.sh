@@ -1,4 +1,7 @@
 #!/bin/bash
+#My changed backup
+#Another changes
+#Third comment
 USER="root"
 PASSWORD="PASS"
 HOST="HOST"
